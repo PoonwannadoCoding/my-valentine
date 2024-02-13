@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-valentine-react/static/css/main.abb09f7f.css",
+    "main.js": "/my-valentine-react/static/js/main.9c3986cd.js",
+    "static/js/592.eaadf68f.chunk.js": "/my-valentine-react/static/js/592.eaadf68f.chunk.js",
+    "static/media/cat3.gif": "/my-valentine-react/static/media/cat3.3b77fbab60f71901d72e.gif",
+    "static/media/cat2.gif": "/my-valentine-react/static/media/cat2.05d88b10036752fff563.gif",
+    "static/media/cat1.jpg": "/my-valentine-react/static/media/cat1.6c6387d77f9e77a32f01.jpg",
+    "index.html": "/my-valentine-react/index.html",
+    "main.abb09f7f.css.map": "/my-valentine-react/static/css/main.abb09f7f.css.map",
+    "main.9c3986cd.js.map": "/my-valentine-react/static/js/main.9c3986cd.js.map",
+    "592.eaadf68f.chunk.js.map": "/my-valentine-react/static/js/592.eaadf68f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abb09f7f.css",
+    "static/js/main.9c3986cd.js"
+  ]
+}
